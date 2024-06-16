@@ -1,0 +1,11 @@
+{
+    "name": "Live cricket score",
+    "version": "1.0.0",
+    "description": "This extention to show the live cricket score",
+    "manifest_version": 3,
+    "author": "Ankit Mourya",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "My Chrome Extension"
+    }
+}
